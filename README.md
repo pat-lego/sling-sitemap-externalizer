@@ -5,5 +5,5 @@ The sling site map extenalizer implements the org.apache.sling.sitemap.spi.commo
 
 # How to build
 
-mvn clean install
+`mvn clean install`
 
